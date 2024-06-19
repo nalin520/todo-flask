@@ -1,7 +1,9 @@
 # todo-flask
 
 If you want to run docker you need to install docker
+
 Configure your postgresql
+
 Create .env from .env.example
 
 cp .env.example .env
